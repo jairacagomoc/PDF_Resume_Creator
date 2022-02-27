@@ -1,10 +1,14 @@
 {
-  "BASIC INFORMATION":[
+  "BASIC_INFORMATION":[
 	"Name":{
-	"First Name":"Nina Jaira Lael ",
+	"FirstName":"Nina Jaira Lael ",
 	"Surname": "Cagomoc"
 	},
-	"Address":"85 Sapipa St. NBBS Navotas City",
+		"Address":{
+			"Barangay": "NBBS",
+			"City": "Navotas",
+			"Region": "NCR"
+		},
 	"Birthday":{
 		"Month":"January",
 		"Date": "17",
@@ -14,18 +18,18 @@
 	"Email":"jairacagomoc101@gmail.com",
 	"Nationality":"Filipino",
 	]
-  "EDUCATIONAL BACKGROUND":[
+  "EDUCATIONAL_BACKGROUND":[
 	"Tertiary":{
-		"School":Polytechnic University of the Philippines",
-		"Year Graduated":"2017-current"
+		"School":"Polytechnic University of the Philippines",
+		"Year_Graduated":"2017-current"
 		},
 	"Secondary":{
-		"School":Sisters Of Mary Of Banneux.Inc",
-		"Year Graduated":"2017"
+		"School":"Sisters Of Mary Of Banneux.Inc",
+		"Year_Graduated":"2017"
 		},
 	]
    "SKILLS":{
-	"Computer Language Literate":"Visual Basic, C++ , C-Sharp",
+	"Computer_Literate":"Visual Basic, C++ , C-Sharp",
 	"Others":"Hardworking"
 	},
 }
